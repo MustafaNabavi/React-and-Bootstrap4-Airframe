@@ -1,10 +1,11 @@
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import {
     Card as BsCard
 } from 'reactstrap';
-
+//it used reactBootstrap for design 
 import classes from './Card.scss';
 
 const Card = (props) => {
@@ -25,6 +26,7 @@ Card.propTypes = {
     type: PropTypes.string,
     color: PropTypes.string
 };
+
 Card.defaultProps = {
     type: 'border',
     color: null
