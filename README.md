@@ -34,6 +34,8 @@ This **Airframe** project is a typical Webpack based React app, [React Router](h
 **Tomasz Owczarczyk:**
 
 - Github: [https://github.com/0wczar](https://github.com/0wczar)
+- https://github.com/tutiatechnology
+- https://github.com/MostafaNabawi
 - Dribbble: [https://dribbble.com/tomaszo](https://dribbble.com/tomaszo)
 - Linkedin: [https://www.linkedin.com/in/tomaszowczarczyk/](https://www.linkedin.com/in/tomaszowczarczyk/)
 - Twitter: [https://twitter.com/towcza](https://twitter.com/towcza)
